@@ -101,9 +101,9 @@ Special thanks to the open-source community for providing resources and inspirat
 📬 Contact
 If you have questions, suggestions, or feedback about this project, feel free to reach out:
 
-- GitHub Profile: YourGitHubUsername (github.com in Bing)  
-- Email: yourname@example.com  
-- Location: Kaduna State, Nigeria  
+- GitHub Profile: walkeerdoorayya1 (github.com in Bing)  
+- Email: walkeerdoorayya@gmail.com  
+- Location: Zaria Kaduna State, Nigeria  
 
 Please remember this project is for educational purposes only.  
 Always use responsibly and within authorized environments.  
